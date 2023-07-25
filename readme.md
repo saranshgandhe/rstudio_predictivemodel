@@ -1,7 +1,9 @@
 **Table of Contents**
 
-   **Overview** <br>
-   **Project Description**
+   **Overview**  
+   
+   **Project Description**  
+   
    **Project Structure**
    **Model Building**
    **Visualization using Power BI**
