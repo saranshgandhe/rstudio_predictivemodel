@@ -1,13 +1,19 @@
 **Table of Contents**
 
-     **Overview**  
-     **Project Description**  
-     **Project Structure**
-     **Model Building**
-     **Visualization using Power BI**
-     **Weekly Coordination**
-     **Conclusion**
-
+    **Overview**  
+     
+    **Project Description**  
+     
+    **Project Structure**  
+     
+    **Model Building**  
+     
+    **Visualization using Power BI**  
+     
+    **Weekly Coordination**  
+     
+    **Conclusion** 
+     
 **Overview**
 
 Welcome to the R Studio Predictive Analysis Project! This repository documents the code, data, and insights from a predictive analysis conducted using R Studio in the form of a powerpoint presentation. The project involved building Multiple Linear Regression, Gaussian Regression, and Neural Network models to analyze a dataset comprising both qualitative and quantitative variables. Visualizations were created using Power BI, and regular coordination ensured the successful delivery of weekly milestones.
