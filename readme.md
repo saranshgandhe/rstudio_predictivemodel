@@ -1,18 +1,18 @@
 **Table of Contents**
 
-    **Overview**  
+    Overview  
      
-    **Project Description**  
+    Project Description  
      
-    **Project Structure**  
+    Project Structure  
      
-    **Model Building**  
+    Model Building  
      
-    **Visualization using Power BI**  
+    Visualization using Power BI  
      
-    **Weekly Coordination**  
+    Weekly Coordination  
      
-    **Conclusion** 
+    Conclusion 
      
 **Overview**
 
