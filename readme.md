@@ -1,6 +1,6 @@
 **Table of Contents**
 
-   **Overview**
+   **Overview** <br>
    **Project Description**
    **Project Structure**
    **Model Building**
