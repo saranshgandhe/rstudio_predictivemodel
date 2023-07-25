@@ -1,19 +1,18 @@
-#Table of Contents
+**Table of Contents**
 
-    #Overview
-    #Project Description
-    #Project Structure
-    #Model Building
-    #Visualization using Power BI
-    #Weekly Coordination
-    #Important Notes
-    #Conclusion
+    **Overview**
+    **Project Description**
+    **Project Structure**
+    **Model Building**
+    **Visualization using Power BI**
+    **Weekly Coordination**
+    **Conclusion**
 
-#Overview
+**Overview**
 
 Welcome to the R Studio Predictive Analysis Project! This repository documents the code, data, and insights from a predictive analysis conducted using R Studio in the form of a powerpoint presentation. The project involved building Multiple Linear Regression, Gaussian Regression, and Neural Network models to analyze a dataset comprising both qualitative and quantitative variables. Visualizations were created using Power BI, and regular coordination ensured the successful delivery of weekly milestones.
 
-#Project Description
+**Project Description**
 
 The primary objective of this project was to conduct a predictive analysis on a given dataset to gain valuable insights. The project workflow can be summarized as follows:
 
@@ -25,7 +24,7 @@ The primary objective of this project was to conduct a predictive analysis on a 
 
     Weekly Coordination: Collaboration played a crucial role in the project's success. Regular coordination with four team members took place through virtual meetings and communication tools to ensure timely progress and address any challenges.
 
-#Project Structure
+**Project Structure**
 
 The repository is organized into the following directories:
 
@@ -35,7 +34,7 @@ The repository is organized into the following directories:
     
     Maple - Capstone project part 3: Contains report submitted to stakeholders with progress updates and accomplishments.
 
-#Model Building
+**Model Building**
 
 The predictive analysis involved building three types of models:
 
@@ -47,15 +46,15 @@ The predictive analysis involved building three types of models:
 
 Each model's accuracy and performance were evaluated to select the best model for the given dataset.
 
-#Visualization using Power BI
+**Visualization using Power BI**
 
 The insights gained from the analysis were presented using interactive visualizations created in Power BI. These visualizations allowed stakeholders to explore the data and understand key findings effectively.
 
-#Weekly Coordination
+**Weekly Coordination**
 
 Regular coordination with the team members was maintained through virtual meetings and communication tools. This facilitated the successful completion of weekly deliverables, efficient problem-solving, and overall project progress.
 
-#Conclusion
+**Conclusion**
 
 Thank you for your interest in this R Studio Predictive Analysis Project. I hope the models and visualizations provide valuable insights to stakeholders. Should you have any questions or feedback, feel free to reach out.
 
